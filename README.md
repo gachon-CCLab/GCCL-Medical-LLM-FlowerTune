@@ -26,6 +26,15 @@ python eval.py \
 --datasets=pubmedqa,medmcqa,medqa
 ```
 
+#### Path to check evaluation results
+
+```
+GCCL-Medical-LLM-FlowerTune/flowertune-eval-medical/benchmarks/
+
+# gccl-medical_r10_p10
+```
+
+
 
 ### Evaluation for Medical challenge (Result of 100th checkpoint out of 100 total rounds)
 
@@ -51,4 +60,12 @@ python eval.py \
 --batch-size=16 \
 --quantization=4 \
 --datasets=pubmedqa,medmcqa,medqa
+```
+
+#### Path to check evaluation results
+
+```
+GCCL-Medical-LLM-FlowerTune/flowertune-eval-medical/benchmarks/
+
+# gccl-medical_r100_p100
 ```
