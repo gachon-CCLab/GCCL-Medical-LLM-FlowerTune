@@ -34,6 +34,9 @@ GCCL-Medical-LLM-FlowerTune/flowertune-eval-medical/benchmarks/
 # gccl-medical_r10_p10
 ```
 
+#### Checkpoint Download
+
+[Link](https://drive.google.com/drive/folders/1IJZ3Pis-ogZmw6lWg6yFKHoT8vQS22Fl?usp=sharing)
 
 
 ### Evaluation for Medical challenge (Result of 100th checkpoint out of 100 total rounds)
@@ -69,3 +72,7 @@ GCCL-Medical-LLM-FlowerTune/flowertune-eval-medical/benchmarks/
 
 # gccl-medical_r100_p100
 ```
+
+#### Checkpoint Download
+
+[Link](https://drive.google.com/drive/folders/1gRMS4iFDWVNewyNJsnCB-kDl_FMXzgfu?usp=sharing)
